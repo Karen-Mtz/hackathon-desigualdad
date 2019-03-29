@@ -1,0 +1,25 @@
+{
+  "name": "hackathon-desigualdad",
+  "version": "1.0.0",
+  "description": "Juego sobre desigualdad laboral",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrayette/hackathon-desigualdad.git"
+  },
+  "keywords": [
+    "desigualdad",
+    "hackathon",
+    "laboratoria",
+    "javascript"
+  ],
+  "author": "Karen Molina, Karen Martínez, Ariadna Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawrayette/hackathon-desigualdad/issues"
+  },
+  "homepage": "https://github.com/lawrayette/hackathon-desigualdad#readme"
+}

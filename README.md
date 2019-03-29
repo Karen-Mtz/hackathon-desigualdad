@@ -1,20 +1,17 @@
-# hackathon-desigualdad
+
 # Desigualdometro/Auditor de desigualdad
 
 ## Índice
 
 
 - [Descripción](#resumen-del-proyecto)
-- [Objetivos](#objetivos)
 - [Problema](#problema)
-- [Método de investigación](#metodo-de-investigacion)
-- [Plan de Trabajo](#plan-de-trabajo)
-- [Etapa Exploratoria:](#etapa-exploratoria)
+- [Objetivos](#objetivos)
+- [Contexto](#contexto)
 - [Definición del público objetivo](#definicion-del-publico-objetivo)
-- [Customer Journey Map](#customer-journey-map)
-- [Definición de producto](#definicion-de-producto)
-- [Contenido](#contenido)
-- [Contenidos](#contenidos)
+- [Benchmark](#benchmark)
+- [Propuesta](#propuesta)
+
 
 
 ## Resumen del proyecto 
@@ -52,7 +49,6 @@ En consecuencia a todo esto, es que surgen las siguientes preguntas de investiga
 • ¿Por qué existe la desigualdad? ¿Cómo se les debe presentar a las mujeres un tema de desigualdad para que se interesen? 
 • ¿Cómo medir la desigualdad laboral en una empresa? ¿Cuáles son los indicadores para medir la desigualdad? 
 Lo que se espera de esta investigación es dar una propuesta de app para generar un impacto y una forma de concientización hacia este sector que representa la mayoría de los habitantes en México.
-![imagen](https://i.ibb.co/HYYLHMK/lau.jpg)
 
 
 ## Objetivos
@@ -66,7 +62,6 @@ Específicos:
 - Crear las preguntas que resuelven el desigualdometro con las métricas correctas.
 - Descubrir la mejor forma de atraer a las mujeres al conocimiento del tema y tratamiento de la desigualdad.
 - Conocer la competencia, los posibles temas de interés y la forma de difusión de esta app.
-
 
 
 #### Contexto 

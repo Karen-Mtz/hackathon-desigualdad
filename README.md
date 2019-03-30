@@ -10,7 +10,11 @@
 - [Contexto](#contexto)
 - [Definición del público objetivo](#definicion-del-publico-objetivo)
 - [Benchmark](#benchmark)
+- [Test de Usabilidad](#test-de-usabilidad)
 - [Propuesta](#propuesta)
+- [Prototipo de baja fidelidad](#prototipo-de-baja-fidelidad)
+- [Prototipo de alta fidelidad](#prototipo-de-alta-fidelidad)
+- [Herramientas utilizadas](#herramientas-utilizadas)
 
 
 
@@ -58,10 +62,10 @@ Realizar una app para difusión y concientización de la importancia de la errad
 
 Específicos:
 
-- A través de conocer del conocimiento integrado de nuestro usuario, realizar una app que se adecue a sus necesidades y otorgarle calidad.
-- Crear las preguntas que resuelven el desigualdometro con las métricas correctas.
-- Descubrir la mejor forma de atraer a las mujeres al conocimiento del tema y tratamiento de la desigualdad.
-- Conocer la competencia, los posibles temas de interés y la forma de difusión de esta app.
+* A través de conocer del conocimiento integrado de nuestro usuario, realizar una app que se adecue a sus necesidades y otorgarle calidad.
+* Crear las preguntas que resuelven el desigualdometro con las métricas correctas.
+* Descubrir la mejor forma de atraer a las mujeres al conocimiento del tema y tratamiento de la desigualdad.
+* Conocer la competencia, los posibles temas de interés y la forma de difusión de esta app.
 
 
 #### Contexto 
@@ -81,7 +85,18 @@ c) Jerarquización:  La jerarquización de las actividades laborales ha sido pro
 d) Jornadas de trabajo:  Las jornadas de trabajo son uno de los motivos por los cuales las mujeres dejan de trabajar, por lo que representa un elemento más para asentar la discriminación laboral hacia el género femenino. Si sumamos las horas laboradas por las actividades domésticas y extradomésticas veríamos que el trabajo realizado por las mujeres es mayor, con la diferencia de que el salario de ellas es proporcional o menor al de los hombres, y en el caso de la realización de las actividades domésticas no reciben remuneración alguna. Esto hace que su posición se encuentre en desventaja en comparación con los hombres, y más si agregamos que el esfuerzo físico realizado por ellas es igual o mayor. 
 e) Contrataciones:  Algunas empresas no realizan la contratación inmediata sino dentro de determinado tiempo para poder calificar el desempeño del trabajo, por lo que pueden decidir no contratarlas, con el fin de no generar gastos económicos: capacitación, seguro médico y prestaciones laborales. 
 
-##Benchmark
+## Definición del público objetivo
+
+Para la definición del usuario realizamos el benchmark para poder verificar a la competencia y sus seguidores y de obtener las características de las mujeres que descragaban estas aplicaciones: 
+En un inicio se realiza una proto- persona que nos puede ayudar a testear nuestro prototipo : buscamos mujeres que tengan actitud y que sean empoderadas también solicitamos de ellas algunos tips para que la app se adecuara a sus necesidades.
+
+![protopersona](https://i.ibb.co/jyBPSvj/protopersona.jpg)
+
+Después conforme fue avanzando el proceso hicimos un empathy map que nos ayudo a saber lo que sentía nuestra usuaria Mónica ella es una chica con ideales y características como nuestra protopersona pero vimos que tenía otras cosas más importantes que sólo datos demógraficos teníamos que saber exactamente que es lo que nuestra usuaria pensaba que necesitaba para sentirse bien y cuáles eran sus frustraciones. 
+
+![pains&gains](https://i.ibb.co/jhmhQxp/empathy.jpg)
+
+## Benchmark
 
 En este apartado se decide encontrar las apps feministas que tengan una visión de fortalecimiento del empoderamiento y de acabar con las problemáticas hacia la mujer. Las más utilizadas e innovadoras fueron estas:
 
@@ -92,26 +107,31 @@ Precio: Gratuita
 Idiomas: Inglés 
 Desarrollador: Kichisaga Leadership AB
 Esta App te permite calcular facilmente el número de hombres y mujeres que participan en una reunión (o película, serie, programa de radio, etc.) y cuánto intervino cada sexo.
+
 2. NOT BUYING IT
 Precio: Gratuita
 Idiomas: Inglés (pero da igual, su manejo es super intuitivo)
 Desarrollador: The Representation Project
 Pues bien, The Representation Project ha creado una App que te permite denunciar el sexismo en la publicidad y promever los medios de comunicación que promueven una visión positiva de la mujer.
+
 3. BUYCOTT
 Precio: Gratuita
 Idiomas: Inglés, árabe, francés, japonés, ruso, ucraniano
 Desarrollador: Buicott Inc.
 Siguiendo el mismo principio de que el que compra es el que tiene el poder, Buycott te ayuda a elegir dónde pones tu dinero e imponer un poco de justicia social en el universo.
+
 4. HOLLABACK!
 Precio: Gratuita
 Idiomas: Inglés, alemán, sami septentrional, español
 Desarrollador: RightRides for Women’s Safety
 Hollaback! es una organización y movimiento internacional contra el acoso y esta App es el punto álgido de su trabajo.  La App te permite reportar y explicar cualquier episodio de acoso callejero, tomar una foto de tus acosadores y subirla a la App y, a través de su función de geolocalización, graba el punto exacto donde ha tenido lugar.
+
 5. ENRÉDATE SIN MACHISMO
 Precio: Gratuita
 Idiomas: Español
 Desarrollador: enredatesinmachismo.com
 Esta App, promovida por el Cabildo de Tenerife a través del área de Educación, Juventud e Igualdad y el Instituto Insular de Atención Social y Sociosanitaria (IASS), ha sido destacada como una de las mejores a nivel nacional para la prevención de la violencia de género. Invita a los jóvenes a jugar desbloqueando tres niveles de dificultad y obtener las medallas de cada nivel a través de un lenguaje cercano y ejemplos de su vida cotidiana. Mientras juegan pueden conocer los estereotipos del amor romántico, evitar situaciones de una relación dominante, reflexionar sobre la violencia machista y revisar si su relación afectiva funciona bien.
+
 6. LIBRES
 Precio: Gratuita
 Idiomas: Español
@@ -124,21 +144,22 @@ Precio: Gratuita
 Idiomas: Inglés 
 Desarrollador: Christian Mueller
 Ni todas las feministas tienen la menstruación ni todas las que la tienen son feministas, pero uno de los puntos importantes del feminismo es eliminar los estigmas y tabúes con respecto a los procesos fisiológicos femeninos y, en concreto, a la menstruación.
+
 8. FAIRSHARE
 Precio: Gratuita
 Idiomas: Inglés, francés, alemán, japones, chino y español
 Desarrollador: Cape Horizon Pty. Ltd.
 Esta App te permite organizar el trabajo y las responsabilidades domésticas, programas las tareas, hacer listas de la compra compartidas con todos los miembros de la casa y documentar las tareas que se vayan haciendo, incluso anotando cuánto tiempo ha llevado cada una.
+
 10. Microrrelatos App “Por la igualdad”
 Precio: Gratuita
 Idiomas:Español.
 Calendario del año 2018 donde cada día contiene un microrrelato que trata sobre la igualdad de género.
 Con respecto a estas aplicaciones son muy básicas y no se pretende abarcar de manera exclusiva el problema de desigualdad por lo que buscamos en android algunas apps que tuvieran que ver con la inequidad y nos aparecieron 
 
-## Definición del público objetivo
-Nuestra usuaria se llama Claudia y se definió de acuerdo a la investigación que se realizó con distintos usuarios de estas aplicaciones de igual forma analizamos las conductas que podrán recrear a una persona que le interesan estos temas.
 
-![imagen](https://i.ibb.co/nm1wqsr/protopersona.jpg)
+### Test de Usabilidad 
+De una muestra de 5 usuarias y que de ellas el rango de edades se encontraban de entre 23 y 26 años nos dimos cuenta de que eran personas accesibles y sinceras que nos ayudaron a hacer el testeo,un 60% usan iphone y 40% android y de ellas todas respondieron que las redes sociales eran las apps que más utilizaban en su celular. 
 
 
 ## Propuesta 
@@ -147,7 +168,7 @@ Todas las que llevamos puestas las gafas violetas nos hemos dado de topes en alg
 Por lo que nos dimos a la tarea de analizar nuestras propuestas como squad en Laboratoria así que creamos varias propuestas que nos apoyarían a ver la relevancia de cada una de nuestras ideas.
 ![imagen](https://i.ibb.co/Hq36Zs8/propuestas.jpg)
 
-De ellas se eligió el Desigualdometro ya que creemos que nuestra Proto-persona es una persona de ideales sin embargo es joven y busca apps que tengan un objetivo claro y que sea entrenida e interactiva. El desigualdometro es un auditor que te ayudará a saber si te encuentras en una entidad o empresa que recrea un ambiente centrado en el machismo hacia la mujer y si promueve la inequidad en los puestos de trabajo.
+De ellas se eligió el Desigualdometro ya que creemos que nuestra Proto-persona es una persona de ideales sin embargo es joven y busca apps que tengan un objetivo claro y que resuelva sus necesidades. El desigualdometro es un auditor que te ayudará a saber si te encuentras en una entidad o empresa que recrea un ambiente centrado en el machismo hacia la mujer y si promueve la inequidad en los puestos de trabajo.
  
 Realizamos 10 preguntas .
 
@@ -173,9 +194,20 @@ Realizamos 10 preguntas .
 
 Todas las respuestas se responden con SI o NO, si tienes de 1-3 respuestas es nivel bajo, de 4 a 6 es moderado, y de 7-10 es grave
 
+También se adiciono un foro de denuncias, para que se preste a la interacción con más mujeres que sufren y pasan por este tipo de experiencias. Para nuestra user-persona es importante relacionarse y compartir este tipo de situaciones para tener un panorama amplio de cómo reaccionar, cómo denunciar los acosos o discriminación por ser mujer.
+
+Y un apartado de denuncias se realizan denuncias de testigos o víctimas que pueden o no ser anónimas ya que no se registran dentro del MP, por lo tanto no se considera formal.
 
 # Prototipo de baja fidelidad
-# Prototipo de baja fidelidad
+Realizamos un prototipo de baja fidelidad que es el que logramos testear con una muestra de cinco mujeres, ellas nos dieron información valiosa acerca de lo que realmente querían y sentían nuestras usuarias.
+
+Se adjunta el video en la carpeta de Videos.
+
+# Prototipo de alta fidelidad
+
+El prototipo de alta fidelidad no se llego a concretar pero se discute en una segunda iteración de este proyecto se pueda finalizar.
+
+# Herramientas utilizadas
 
 
 
